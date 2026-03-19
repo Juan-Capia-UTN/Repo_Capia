@@ -1,0 +1,58 @@
+cat > .gitignore << 'EOF'
+# Compilados y ejecutables
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dll
+
+# Headers generados
+*.h~
+
+# JSON
+*.json
+
+# Logs
+*.log
+
+# Directorios de build
+build/
+dist/
+bin/
+obj/
+
+# IDEs
+.vscode/
+.idea/
+*.cbp
+*.layout
+*.depend
+EOFPlugins en  VSC  para programación en C
+cat > .gitignore << 'EOF'
+# Compilados y ejecutables
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dll
+# Headers generados
+*.h~
+# JSON
+*.json
+# Logs
+*.log
+# Directorios de build
+build/
+dist/
+bin/
+obj/
+# IDEs
+.vscode/
+.idea/
+*.cbp
+*.layout
+*.depend
+EOFPlugins en  VSC  para programación en C
+
