@@ -10,8 +10,7 @@ cat > .gitignore << 'EOF'
 # Headers generados
 *.h~
 
-# JSON
-*.json
+
 
 # Logs
 *.log
@@ -23,7 +22,7 @@ bin/
 obj/
 
 # IDEs
-.vscode/
+
 .idea/
 *.cbp
 *.layout
